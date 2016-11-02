@@ -1,0 +1,35 @@
+{"books": [{
+  "title": "Good Vibrations: My Life as a Beach Boy",
+  "author": "Mike Love, James S Hirsch",
+  "genre": "nonfiction",
+  "price": "28",
+  "image": "http://images.penguinrandomhouse.com/cover/9780399176418",
+  "pages": "448",
+  "synopsis": "Mike Love tells the story of his legendary, raucous, and ultimately triumphant five-decade career as the front man of The Beach Boys, the most popular American band in history — timed to coincide with the 50th anniversary of 'Good Vibrations.' As a founding member of The Beach Boys, Mike Love has spent an extraordinary fifty-five years, and counting, as the group’s lead singer and one of its principal lyricists. The Beach Boys, from their California roots to their international fame, are a unique American story — one of overnight success and age-defying longevity; of musical genius and reckless self-destruction; of spirituality, betrayal, and forgiveness — and Love is the only band member to be part of it each and every step. His own story has never been fully told, of how a sheet-metal apprentice became the quintessential front man for America’s most successful rock band, singing in more than 5,600 concerts in 26 countries. Love describes the stories behind his lyrics for pop classics such as 'Good Vibrations,' 'California Girls,' 'Surfin' USA,' and 'Kokomo,' while providing vivid portraits of the turbulent lives of his three gifted cousins, Brian, Dennis, and Carl Wilson. His partnership with Brian has few equals in American pop music, though Mike has carved out a legacy of his own — he co-wrote the lyrics to eleven of the twelve original Beach Boy songs that were top 10 hits while providing the lead vocals on ten of them. The band’s unprecedented durability also provides a glimpse into America’s changing cultural mores over the past half century, while Love himself has experienced both the diabolical and the divine — from Charles Manson's 'family' threatening his life to Maharishi instilling it with peace. A husband, a father, and an avid environmentalist, Love has written a book that is as rich and layered as the Beach Boy harmonies themselves.",
+  "publisher": "Blue Rider Press",
+  "isbn": "9780399176418",
+  "date": "09/13/2016"
+  },{
+    "title": "The Sellout",
+    "author": "Paul Beatty",
+    "genre": "fiction",
+    "price": "16",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51gc1HCCV8L._SX331_BO1,204,203,200_.jpg",
+    "pages": "304",
+    "synopsis": "A biting satire about a young man's isolated upbringing and the race trial that sends him to the Supreme Court, Paul Beatty's The Sellout showcases a comic genius at the top of his game. It challenges the sacred tenets of the United States Constitution, urban life, the civil rights movement, the father-son relationship, and the holy grail of racial equality — the black Chinese restaurant. Born in the 'agrarian ghetto' of Dickens — on the southern outskirts of Los Angeles — the narrator of The Sellout resigns himself to the fate of lower-middle-class Californians: 'I'd die in the same bedroom I'd grown up in, looking up at the cracks in the stucco ceiling that've been there since 68 quake.' Raised by a single father, a controversial sociologist, he spent his childhood as the subject in racially charged psychological studies. He is led to believe that his father's pioneering work will result in a memoir that will solve his family's financial woes. But when his father is killed in a police shoot-out, he realizes there never was a memoir. All that's left is the bill for a drive-thru funeral. Fueled by this deceit and the general disrepair of his hometown, the narrator sets out to right another wrong: Dickens has literally been removed from the map to save California from further embarrassment. Enlisting the help of the town's most famous resident — the last surviving Little Rascal, Hominy Jenkins — he initiates the most outrageous action conceivable: reinstating slavery and segregating the local high school, which lands him in the Supreme Court.",
+    "publisher": "Picador USA",
+    "isbn": "9781250083258",
+    "date": "03/01/2016"
+  }, {
+    "title": "Cooking for Jeffrey: A Barefoot Contessa Cookbook",
+    "author": "Ina Garten",
+    "genre": "nonfiction",
+    "price": "35",
+    "image": "http://mms.businesswire.com/media/20160517005690/en/525237/5/Cooking_for_Jeffrey_Cover_Image.jpg",
+    "pages": "256",
+    "synopsis": "Ina’s most personal cookbook yet, Cooking for Jeffrey is filled with the recipes Jeffrey and their friends request most often as well as charming stories from Ina and Jeffrey’s many years together. There are traditional dishes that she’s updated, such as Brisket with Onions and Leeks, and Tsimmes, a vegetable stew with carrots, butternut squash, sweet potatoes, and prunes, and new favorites, like Skillet-Roasted Lemon Chicken and Roasted Salmon Tacos. You’ll also find wonderful new salads, including Maple-Roasted Carrot Salad and Kale Salad with Pancetta and Pecorino. Desserts range from simple Apple Pie Bars to showstoppers like Vanilla Rum Panna Cotta with Salted Caramel. For the first time, Ina has included a chapter devoted to bread and cheese, with recipes and tips for creating the perfect cheese course. With options like Fig and Goat Cheese Bruschettas and Challah with Saffron, there’s something everyone will enjoy.",
+    "publisher": "Clarkson Potter",
+    "isbn": "9780307464897",
+    "date": "10/25/2016"
+  }]
+}
