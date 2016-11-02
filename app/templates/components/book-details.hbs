@@ -1,1 +1,27 @@
-{{yield}}
+<div class="row">
+  <div class="col-sm-6">
+    <img src={{book.image}} alt={{book.title}}>
+    <p>
+      <h4>{{book.title}}</h4>
+      <span>By {{book.author}}</span>
+      <h5>${{book.price}}.00</h5>
+      <button class="btn">Add to Cart</button>
+    </p>
+    <p class="details">
+      <h6>Pages: {{book.pages}}</h6>
+      <h6>ISBN: {{book.isbn}}</h6>
+      <h6>Publisher: {{book.publisher}}</h6>
+      <h6>Date: {{book.date}}</h6>
+    </p>
+  </div>
+  <div class="col-sm-6">
+    <p>
+      <h4>Synopsis</h4>
+      {{book.synopsis}}
+    </p>
+  </div>
+</div>
+
+<div class="row">
+
+</div>
