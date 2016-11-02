@@ -15,7 +15,7 @@ Verbatim is an online marketplace that provides users with a variety of books fo
 ## Installation
 
 * `git clone https://github.com/khirsch/verbatim` this repository
-* `cd enlightened-citizenry`
+* `cd verbatim`
 * `npm install`
 * `bower install`
 
