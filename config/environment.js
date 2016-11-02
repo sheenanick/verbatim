@@ -13,6 +13,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      apiKey: "AIzaSyC3LwwlQzv9BDf4huSvy6L8Pgomi2wh_A8",
+      authDomain: "verbatim-1061a.firebaseapp.com",
+      databaseURL: "https://verbatim-1061a.firebaseio.com",
+      storageBucket: "verbatim-1061a.appspot.com"
+    },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
