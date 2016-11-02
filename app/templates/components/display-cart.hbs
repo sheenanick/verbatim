@@ -1,3 +1,19 @@
-{{#each shoppingCart.items as |book|}}
-  {{book.title}} -- ${{book.price}}.00
-{{/each}}
+{{#if}}
+  {{#each shoppingCart.items as |book|}}
+    <div class="row">
+      <div class="col-sm-1 col-sm-offset-1">
+        <img class="delete" src="/assets/images/delete.png" alt="Delete Item">
+      </div>
+      <div class="col-sm-6 item">
+        <span>{{book.title}}</span>
+      </div>
+      <div class="col-sm-2 price">
+        <span>${{book.price}}.00</span>
+      </div>
+    </div>
+  {{/each}}
+{{else}}
+  <p class="text-center">No items in cart.</p>
+{{/if}}
+<hr>
+<h4>Total: $0.00 <button id="checkout" class="btn pull-right">Checkout</button></h4>

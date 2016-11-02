@@ -17,6 +17,29 @@ a, a:hover, a:visited {
   height: 445px;
 }
 
+.item {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px !important;
+  margin-bottom: 0 !important;
+}
+
+.delete {
+  width: 20px;
+}
+
+.price {
+  padding-left: 0 !important;
+}
+
+.btn, .btn:hover, .btn:focus {
+  background: #FFF;
+  color: #000;
+  border: 1px solid #000;
+  box-shadow: 1px 1px;
+}
+
 #logo {
   width: 15%;
   display: block;
@@ -26,7 +49,7 @@ a, a:hover, a:visited {
 #cart-image {
   width: 8%;
   display: block;
-  margin: 40px auto;
+  margin: 40px auto 20px;
 }
 
 #menu {
@@ -40,4 +63,8 @@ a, a:hover, a:visited {
 #main {
   margin-top: 50px;
   margin-bottom: 50px;
+}
+
+#checkout {
+  margin-top: -0.5em !important;
 }
