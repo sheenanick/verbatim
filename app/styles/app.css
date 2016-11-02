@@ -68,3 +68,8 @@ a, a:hover, a:visited {
 #checkout {
   margin-top: -0.5em !important;
 }
+
+#synopsis {
+  margin-top: 1.5%;
+  margin-left: 0.5%;
+}
