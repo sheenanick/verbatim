@@ -7,7 +7,6 @@ export default Ember.Service.extend({
   add(item, price) {
     this.get('items').pushObject(item);
     this.set('itemsInCart', true);
-    console.log(item);
     var currentTotal = this.get('total');
     currentTotal += parseInt(price);
     this.set('total', currentTotal);
