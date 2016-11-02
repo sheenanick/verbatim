@@ -1,14 +1,14 @@
 {"books": [{
-  "title": "Good Vibrations: My Life as a Beach Boy",
-  "author": "Mike Love, James S Hirsch",
-  "genre": "nonfiction",
-  "price": "28",
-  "image": "http://images.penguinrandomhouse.com/cover/9780399176418",
-  "pages": "448",
-  "synopsis": "Mike Love tells the story of his legendary, raucous, and ultimately triumphant five-decade career as the front man of The Beach Boys, the most popular American band in history — timed to coincide with the 50th anniversary of 'Good Vibrations.' As a founding member of The Beach Boys, Mike Love has spent an extraordinary fifty-five years, and counting, as the group’s lead singer and one of its principal lyricists. The Beach Boys, from their California roots to their international fame, are a unique American story — one of overnight success and age-defying longevity; of musical genius and reckless self-destruction; of spirituality, betrayal, and forgiveness — and Love is the only band member to be part of it each and every step. His own story has never been fully told, of how a sheet-metal apprentice became the quintessential front man for America’s most successful rock band, singing in more than 5,600 concerts in 26 countries. Love describes the stories behind his lyrics for pop classics such as 'Good Vibrations,' 'California Girls,' 'Surfin' USA,' and 'Kokomo,' while providing vivid portraits of the turbulent lives of his three gifted cousins, Brian, Dennis, and Carl Wilson. His partnership with Brian has few equals in American pop music, though Mike has carved out a legacy of his own — he co-wrote the lyrics to eleven of the twelve original Beach Boy songs that were top 10 hits while providing the lead vocals on ten of them. The band’s unprecedented durability also provides a glimpse into America’s changing cultural mores over the past half century, while Love himself has experienced both the diabolical and the divine — from Charles Manson's 'family' threatening his life to Maharishi instilling it with peace. A husband, a father, and an avid environmentalist, Love has written a book that is as rich and layered as the Beach Boy harmonies themselves.",
-  "publisher": "Blue Rider Press",
-  "isbn": "9780399176418",
-  "date": "09/13/2016"
+    "title": "Good Vibrations: My Life as a Beach Boy",
+    "author": "Mike Love, James S Hirsch",
+    "genre": "nonfiction",
+    "price": "28",
+    "image": "http://images.penguinrandomhouse.com/cover/9780399176418",
+    "pages": "448",
+    "synopsis": "Mike Love tells the story of his legendary, raucous, and ultimately triumphant five-decade career as the front man of The Beach Boys, the most popular American band in history — timed to coincide with the 50th anniversary of 'Good Vibrations.' As a founding member of The Beach Boys, Mike Love has spent an extraordinary fifty-five years, and counting, as the group’s lead singer and one of its principal lyricists. The Beach Boys, from their California roots to their international fame, are a unique American story — one of overnight success and age-defying longevity; of musical genius and reckless self-destruction; of spirituality, betrayal, and forgiveness — and Love is the only band member to be part of it each and every step. His own story has never been fully told, of how a sheet-metal apprentice became the quintessential front man for America’s most successful rock band, singing in more than 5,600 concerts in 26 countries. Love describes the stories behind his lyrics for pop classics such as 'Good Vibrations,' 'California Girls,' 'Surfin' USA,' and 'Kokomo,' while providing vivid portraits of the turbulent lives of his three gifted cousins, Brian, Dennis, and Carl Wilson. His partnership with Brian has few equals in American pop music, though Mike has carved out a legacy of his own — he co-wrote the lyrics to eleven of the twelve original Beach Boy songs that were top 10 hits while providing the lead vocals on ten of them. The band’s unprecedented durability also provides a glimpse into America’s changing cultural mores over the past half century, while Love himself has experienced both the diabolical and the divine — from Charles Manson's 'family' threatening his life to Maharishi instilling it with peace. A husband, a father, and an avid environmentalist, Love has written a book that is as rich and layered as the Beach Boy harmonies themselves.",
+    "publisher": "Blue Rider Press",
+    "isbn": "9780399176418",
+    "date": "09/13/2016"
   },{
     "title": "The Sellout",
     "author": "Paul Beatty",
@@ -21,15 +21,48 @@
     "isbn": "9781250083258",
     "date": "03/01/2016"
   }, {
-    "title": "Cooking for Jeffrey: A Barefoot Contessa Cookbook",
-    "author": "Ina Garten",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "fiction",
+    "price": "9",
+    "image": "https://librarialpursuits.files.wordpress.com/2011/08/mockingbird.jpg",
+    "pages": "384",
+    "synopsis": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic. Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.",
+    "publisher": "HarperLuxe",
+    "isbn": "9780446310789",
+    "date": "1960"
+  }, {
+    "title": "Between the World and Me",
+    "author": "Ta-Nehisi Coates",
     "genre": "nonfiction",
-    "price": "35",
-    "image": "http://mms.businesswire.com/media/20160517005690/en/525237/5/Cooking_for_Jeffrey_Cover_Image.jpg",
-    "pages": "256",
-    "synopsis": "Ina’s most personal cookbook yet, Cooking for Jeffrey is filled with the recipes Jeffrey and their friends request most often as well as charming stories from Ina and Jeffrey’s many years together. There are traditional dishes that she’s updated, such as Brisket with Onions and Leeks, and Tsimmes, a vegetable stew with carrots, butternut squash, sweet potatoes, and prunes, and new favorites, like Skillet-Roasted Lemon Chicken and Roasted Salmon Tacos. You’ll also find wonderful new salads, including Maple-Roasted Carrot Salad and Kale Salad with Pancetta and Pecorino. Desserts range from simple Apple Pie Bars to showstoppers like Vanilla Rum Panna Cotta with Salted Caramel. For the first time, Ina has included a chapter devoted to bread and cheese, with recipes and tips for creating the perfect cheese course. With options like Fig and Goat Cheese Bruschettas and Challah with Saffron, there’s something everyone will enjoy.",
-    "publisher": "Clarkson Potter",
-    "isbn": "9780307464897",
-    "date": "10/25/2016"
+    "price": "25",
+    "image": "https://cdn.theatlantic.com/assets/media/img/posts/2015/07/1_coates_between_the_world_and_me/50c0c9d1d.jpg",
+    "pages": "176",
+    "synopsis": "In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden? Between the World and Me is Ta-Nehisi Coates’s attempt to answer these questions in a letter to his adolescent son. Coates shares with his son—and readers—the story of his awakening to the truth about his place in the world through a series of revelatory experiences, from Howard University to Civil War battlefields, from the South Side of Chicago to Paris, from his childhood home to the living rooms of mothers whose children’s lives were taken as American plunder. Beautifully woven from personal narrative, reimagined history, and fresh, emotionally charged reportage, Between the World and Me clearly illuminates the past, bracingly confronts our present, and offers a transcendent vision for a way forward.",
+    "publisher": "Spiegel & Grau",
+    "isbn": "9780812993547",
+    "date": "07/14/2015"
+  }, {
+    "title": "Library of Souls",
+    "author": "Ransom Riggs",
+    "genre": "fiction",
+    "price": "19",
+    "image": "https://contentcafe2.btol.com/ContentCafe/Jacket.aspx?&userID=EBSCO9&password=TUSCONPL&Value=9781594747786&content=L&Return=1&Type=L",
+    "pages": "464",
+    "synopsis": "A boy with extraordinary powers. An army of deadly monsters. An epic battle for the future of peculiardom. The adventure that began with Miss Peregrine’s Home for Peculiar Children and continued in Hollow City comes to a thrilling conclusion with Library of Souls. As the story opens, sixteen-year-old Jacob discovers a powerful new ability, and soon he’s diving through history to rescue his peculiar companions from a heavily guarded fortress. Accompanying Jacob on his journey are Emma Bloom, a girl with fire at her fingertips, and Addison MacHenry, a dog with a nose for sniffing out lost children. They’ll travel from modern-day London to the labyrinthine alleys of Devil’s Acre, the most wretched slum in all of Victorian England. It’s a place where the fate of peculiar children everywhere will be decided once and for all. Like its predecessors, Library of Souls blends thrilling fantasy with never-before-published vintage photography to create a one-of-a-kind reading experience.",
+    "publisher": "Quirk Books",
+    "isbn": "9781594747588",
+    "date": "09/22/2015"
+  }, {
+    "title": "Milk and Honey",
+    "author": "Rupi Kaur",
+    "genre": "fiction",
+    "price": "15",
+    "image": "http://prodimage.images-bn.com/pimages/9781449474256_p0_v10_s1200x630.jpg",
+    "pages": "208",
+    "synopsis": "Milk and Honey is a collection of poetry and prose about survival. About the experience of violence, abuse, love, loss, and femininity. The book is divided into four chapters, and each chapter serves a different purpose. Deals with a different pain. Heals a different heartache. Milk and Honey takes readers through a journey of the most bitter moments in life and finds sweetness in them because there is sweetness everywhere if you are just willing to look.",
+    "publisher": "Andrews McMeel Publishing",
+    "isbn": "9781449474256",
+    "date": "10/06/2015"
   }]
 }
