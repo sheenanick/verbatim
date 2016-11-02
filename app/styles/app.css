@@ -13,6 +13,10 @@ a, a:hover, a:visited {
   cursor: url('/assets/images/eye.png'), auto;
 }
 
+.thumbnail {
+  height: 445px;
+}
+
 #logo {
   width: 15%;
   display: block;
@@ -22,7 +26,7 @@ a, a:hover, a:visited {
 #cart-image {
   width: 8%;
   display: block;
-  margin: 20px auto;
+  margin: 40px auto;
 }
 
 #menu {
@@ -31,4 +35,9 @@ a, a:hover, a:visited {
 
 #footer {
   text-align: center;
+}
+
+#main {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
