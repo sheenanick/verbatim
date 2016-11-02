@@ -1,4 +1,4 @@
-{{#if}}
+{{#if shoppingCart.itemsInCart}}
   {{#each shoppingCart.items as |book|}}
     <div class="row">
       <div class="col-sm-1 col-sm-offset-1">
@@ -16,4 +16,4 @@
   <p class="text-center">No items in cart.</p>
 {{/if}}
 <hr>
-<h4>Total: $0.00 <button id="checkout" class="btn pull-right">Checkout</button></h4>
+<h4>Total: ${{shoppingCart.total}}.00 <button id="checkout" class="btn pull-right">Checkout</button></h4>

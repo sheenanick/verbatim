@@ -2,8 +2,8 @@ import Ember from 'ember';
 
 export default Ember.Component.extend({
   actions: {
-    addToCart(item) {
-      this.sendAction('addToCart', item);
+    addToCart(item, price) {
+      this.sendAction('addToCart', item, price);
     }
   }
 });
