@@ -1,13 +1,13 @@
 {{#if shoppingCart.itemsInCart}}
   {{#each shoppingCart.items as |book|}}
     <div class="row">
-      <div class="col-sm-1">
-        <img class="delete" src="/assets/images/minus.png" alt="Delete Item" {{action 'removeQuantity' book book.price}}>
+      <div class="col-sm-1 remove-col">
+        <img class="remove" src="/assets/images/minus.png" alt="Remove Item" {{action 'removeQuantity' book book.price}}>
       </div>
-      <div class="col-sm-1">
+      <div class="col-sm-1 quantity">
         <span>{{book.quantity}}</span>
       </div>
-      <div class="col-sm-1">
+      <div class="col-sm-1 add-col">
         <img class="add" src="/assets/images/plus.png" alt="Add Item" {{action 'addQuantity' book}}>
       </div>
       <div class="col-sm-6 item">

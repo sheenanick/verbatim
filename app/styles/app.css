@@ -27,8 +27,23 @@ a, a:hover, a:visited {
   padding-right: 5px !important;
 }
 
-.delete, .add {
+.remove, .add {
   width: 15px;
+  margin-bottom: 3px;
+}
+
+.remove-col {
+  padding-right: 0 !important;
+}
+
+.quantity {
+  padding-left: 8px;
+  padding-right: 2px;
+  text-align: center;
+}
+
+.add-col {
+  padding-left: 0 !important;
 }
 
 .price {

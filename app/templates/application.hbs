@@ -7,14 +7,14 @@
   <div id="main" class="row">
     <div id="sidebar" class="col-sm-3">
       <div>
-        <img id="logo" src="/assets/images/book.svg" alt="Verbatim">
+        {{#link-to 'index'}}<img id="logo" src="/assets/images/book.svg" alt="Verbatim Books">{{/link-to}}
         <p id="menu">
-          {{#link-to 'index'}}<span>View All</span>{{/link-to}}<br>
           <span>Fiction</span><br>
           <span>Poetry</span><br>
           <span>Mystery</span><br>
           <span>Horror</span><br>
-          <span>Biography</span>
+          <span>Biography</span><br>
+          {{#link-to 'index'}}<span>View All</span>{{/link-to}}
         </p>
       </div>
       <div id="shopping-cart">
