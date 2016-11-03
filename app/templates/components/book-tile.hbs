@@ -1,6 +1,7 @@
 <div class="col-sm-4">
+  {{#link-to 'book' book.id}}
   <div class="thumbnail">
-    {{#link-to 'book' book.id}}<img class="thumbnail-image" src={{book.image}}>{{/link-to}}
+    <img class="thumbnail-image" src={{book.image}}>
     <br>
     {{book.title}}
     <br>
@@ -8,4 +9,5 @@
     <br>
     ${{book.price}}.00
   </div>
+  {{/link-to}}
 </div>

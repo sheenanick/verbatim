@@ -7,11 +7,12 @@
   <div id="main" class="row">
     <div id="sidebar" class="col-sm-3">
       <div>
-        {{#link-to 'index'}}<img id="logo" src="/assets/images/book.svg" alt="Verbatim">{{/link-to}}
+        <img id="logo" src="/assets/images/book.svg" alt="Verbatim">
         <p id="menu">
-          <span>BESTSELLERS</span><br>
-          <span>FICTION</span><br>
-          <span>NONFICTION</span>
+          {{#link-to 'index'}}<span>View All</span>{{/link-to}}<br>
+          <span>Literature</span><br>
+          <span>Poetry</span><br>
+          <span>Biography</span>
         </p>
       </div>
       <div id="shopping-cart">
