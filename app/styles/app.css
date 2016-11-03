@@ -22,7 +22,9 @@ a, a:hover, a:visited {
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 200px !important;
-  margin-bottom: 0 !important;
+  margin: 0 !important;
+  padding-left: 0 !important;
+  padding-right: 5px !important;
 }
 
 .delete {
