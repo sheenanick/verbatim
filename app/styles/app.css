@@ -80,6 +80,11 @@ a, a:hover, a:visited {
   padding-left: 0 !important;
 }
 
+.page-nav {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 #logo {
   width: 15%;
   display: block;
