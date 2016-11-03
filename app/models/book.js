@@ -10,5 +10,6 @@ export default DS.Model.extend({
   synopsis: DS.attr(),
   publisher: DS.attr(),
   isbn: DS.attr(),
-  date: DS.attr()
+  date: DS.attr(),
+  quantity: DS.attr()
 });

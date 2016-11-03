@@ -6,8 +6,8 @@ export default Ember.Route.extend({
     return this.store.findRecord('book', params.book_id);
   },
   actions: {
-    addToCart(item, price) {
-      this.get('shoppingCart').add(item, price);
+    addToCart(item) {
+      this.get('shoppingCart').add(item);
     }
   }
 });

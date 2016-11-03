@@ -27,8 +27,8 @@ a, a:hover, a:visited {
   padding-right: 5px !important;
 }
 
-.delete {
-  width: 20px;
+.delete, .add {
+  width: 15px;
 }
 
 .price {
