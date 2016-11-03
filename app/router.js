@@ -8,6 +8,11 @@ const Router = Ember.Router.extend({
 
 Router.map(function() {
   this.route('book', {path: '/book/:book_id'});
+  this.route('fiction');
+  this.route('poetry');
+  this.route('mystery');
+  this.route('horror');
+  this.route('biography');
 });
 
 export default Router;

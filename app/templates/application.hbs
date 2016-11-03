@@ -9,11 +9,11 @@
       <div>
         {{#link-to 'index'}}<img id="logo" src="/assets/images/book.svg" alt="Verbatim Books">{{/link-to}}
         <p id="menu">
-          <span>Fiction</span><br>
-          <span>Poetry</span><br>
-          <span>Mystery</span><br>
-          <span>Horror</span><br>
-          <span>Biography</span><br>
+          {{#link-to 'fiction'}}<span>Fiction</span><br>{{/link-to}}
+          {{#link-to 'poetry'}}<span>Poetry</span><br>{{/link-to}}
+          {{#link-to 'mystery'}}<span>Mystery</span><br>{{/link-to}}
+          {{#link-to 'horror'}}<span>Horror</span><br>{{/link-to}}
+          {{#link-to 'biography'}}<span>Biography</span><br>{{/link-to}}
           {{#link-to 'index'}}<span>View All</span>{{/link-to}}
         </p>
       </div>
