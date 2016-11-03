@@ -13,12 +13,15 @@
       {{#link-to 'book' book.id}}
       <div class="thumbnail">
         <img class="thumbnail-image" src={{book.image}}>
-        <br>
-        {{book.title}}
-        <br>
-        {{book.author}}
-        <br>
-        ${{book.price}}.00
+        <div class="book-title">
+          {{book.title}}
+        </div>
+        <div class="book-author">
+          {{book.author}}
+        </div>
+        <div class="book-price">
+          ${{book.price}}.00
+        </div>
       </div>
       {{/link-to}}
     </div>

@@ -14,12 +14,29 @@ a, a:hover, a:visited {
 }
 
 .sort {
-  text-align: center;
+  text-align: right;
   margin-bottom: 20px;
 }
 
 .thumbnail {
-  height: 445px;
+  height: 430px;
+}
+
+.thumbnail-image {
+  width: 230px !important;
+  height: 345px !important;
+  margin-bottom: 10px;
+}
+
+.book-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px !important;
+}
+
+.book-title, .book-author, .book-price {
+  margin-left: 4px;
 }
 
 .item {
@@ -60,6 +77,10 @@ a, a:hover, a:visited {
   color: #000;
   border: 1px solid #000;
   box-shadow: 1px 1px;
+}
+
+.breadcrumb {
+  background: #FFF !important;
 }
 
 #logo {

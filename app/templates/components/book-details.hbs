@@ -1,3 +1,9 @@
+<nav class="breadcrumb">
+  {{#link-to 'index'}}<span class="breadcrumb-item">Home</span>{{/link-to}} >
+  {{#link-to book.genre.name}}<span class="breadcrumb-item">{{book.genre.name}}</span>{{/link-to}} >
+  <span class="breadcrumb-item active">{{book.title}}</span>
+</nav>
+
 <div class="row">
   <div class="col-sm-4">
     <img class="img-responsive" src={{book.image}} alt={{book.title}}>
