@@ -1,13 +1,26 @@
-<div class="col-sm-4">
-  {{#link-to 'book' book.id}}
-  <div class="thumbnail">
-    <img class="thumbnail-image" src={{book.image}}>
-    <br>
-    {{book.title}}
-    <br>
-    {{book.author}}
-    <br>
-    ${{book.price}}.00
-  </div>
-  {{/link-to}}
+<div class="sort">
+  <label>Sort by:</label>
+  <select onchange={{action 'sort' value="target.value"}}>
+    <option value="title">Title</option>
+    <option value="author">Author</option>
+    <option value="price">Price</option>
+  </select>
+</div>
+
+<div class="row">
+  {{#each sortedBooks as |book|}}
+    <div class="col-sm-4">
+      {{#link-to 'book' book.id}}
+      <div class="thumbnail">
+        <img class="thumbnail-image" src={{book.image}}>
+        <br>
+        {{book.title}}
+        <br>
+        {{book.author}}
+        <br>
+        ${{book.price}}.00
+      </div>
+      {{/link-to}}
+    </div>
+  {{/each}}
 </div>
