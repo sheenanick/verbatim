@@ -47,7 +47,7 @@ a, a:hover, a:visited {
 }
 
 #cart-image {
-  width: 8%;
+  width: 15%;
   display: block;
   margin: 40px auto 20px;
 }
@@ -67,6 +67,10 @@ a, a:hover, a:visited {
 
 #checkout {
   margin-top: -0.5em !important;
+}
+
+#total {
+  margin: auto 2% auto 2%;
 }
 
 #synopsis {
