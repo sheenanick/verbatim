@@ -3,7 +3,7 @@ import DS from 'ember-data';
 export default DS.Model.extend({
   title: DS.attr(),
   author: DS.attr(),
-  genre: DS.attr(),
+  genre: DS.belongsTo('genre', {async:true}),
   price: DS.attr(),
   image: DS.attr(),
   pages: DS.attr(),
