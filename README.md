@@ -14,7 +14,7 @@ Verbatim is an online marketplace that provides users with a variety of books fo
 
 ## Installation
 
-* `git clone https://github.com/khirsch/verbatim` this repository
+* `git clone https://github.com/sheenanick/verbatim` this repository
 * `cd verbatim`
 * `npm install`
 * `bower install`
@@ -36,7 +36,7 @@ Verbatim is an online marketplace that provides users with a variety of books fo
 
 ## Known Bugs
 
-There are no known bugs at this time. To report a bug, please visit the [Github Issues page](https://github.com/khirsch/verbatim/issues) for this repository.
+There are no known bugs at this time. To report a bug, please visit the [Github Issues page](https://github.com/sheenanick/verbatim/issues) for this repository.
 
 ## Support & Contact Details
 
