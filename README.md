@@ -4,13 +4,7 @@
 
 ## Description
 
-Verbatim is an online marketplace that provides users with a variety of books for purchase.
-
-* [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
-* [Ember CLI](http://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+Verbatim is an online marketplace that provides users with a variety of books for purchase. This app is deployed on Heroku and can be viewed [here](https://cryptic-lowlands-73911.herokuapp.com/).
 
 ## Installation
 
